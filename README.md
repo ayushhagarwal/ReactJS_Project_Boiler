@@ -1,4 +1,4 @@
-This repo is to start any tailwindCSS , ReactJS project. All the required tailwind setup is done and folder structure is maintained. 
+This repo is to start a ReactJS project.
 
 ## Getting Started with Create React App
 
